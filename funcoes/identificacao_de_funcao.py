@@ -28,7 +28,7 @@ def localizarListaPorNome(lista):
                 print("Serial.: ", elemento[2])
                 return
 
-            busca = input("\nDigite um equipamento válido: ")
+        busca = input("\nDigite um equipamento válido: ")
 
 def depreciacarPorNome(lista, porc):
     depreciar = input("\nDigite o nome do equipamento que deseja depreciar: ")
