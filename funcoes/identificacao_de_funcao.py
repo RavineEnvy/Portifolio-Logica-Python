@@ -15,7 +15,7 @@ def preencherInventario(lista):
 def exibirInventario(lista):
     for elemento in lista:
         print("\nNome........: ", elemento[0])
-        print("Equipamento.: ", elemento[1])
+        print("Valor.......: ", elemento[1])
         print("Serial......: ", elemento[2])
         print("Departamento: ", elemento[3])
 
