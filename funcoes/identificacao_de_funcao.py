@@ -40,7 +40,7 @@ def depreciacarPorNome(lista, porc):
                 print("Novo valor: ", elemento[1])
                 return
 
-            depreciar = input("\nDigite um equipamento válido: ")
+        depreciar = input("\nDigite um equipamento válido: ")
 
 def excluirPorSerial(lista):
     entrada = input("\nDigite o serial do equipamento que deseja excluir: ")
