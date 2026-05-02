@@ -1,7 +1,7 @@
 <h1>Portifólio Python</h1><br>
 
 <h3>Projetos de lógica.</h3>
-<p>Cada pasta deste git representa um exemplo de código, sejá lógica ou domínio da sintaxe.</p><br>
+<p>Cada pasta deste git representa um exemplo de código, lógica e domínio de sintaxe.</p><br>
 
 # Feito por:
 
